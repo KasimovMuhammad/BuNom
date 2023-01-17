@@ -1,0 +1,15 @@
+C:\Users\muham\source\repos\AbduRahimApp\AbduRahimApp\bin\Debug\net6.0\AbduRahimApp.exe
+C:\Users\muham\source\repos\AbduRahimApp\AbduRahimApp\bin\Debug\net6.0\AbduRahimApp.deps.json
+C:\Users\muham\source\repos\AbduRahimApp\AbduRahimApp\bin\Debug\net6.0\AbduRahimApp.runtimeconfig.json
+C:\Users\muham\source\repos\AbduRahimApp\AbduRahimApp\bin\Debug\net6.0\AbduRahimApp.dll
+C:\Users\muham\source\repos\AbduRahimApp\AbduRahimApp\bin\Debug\net6.0\AbduRahimApp.pdb
+C:\Users\muham\source\repos\AbduRahimApp\AbduRahimApp\obj\Debug\net6.0\AbduRahimApp.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\AbduRahimApp\AbduRahimApp\obj\Debug\net6.0\AbduRahimApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\AbduRahimApp\AbduRahimApp\obj\Debug\net6.0\AbduRahimApp.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\AbduRahimApp\AbduRahimApp\obj\Debug\net6.0\AbduRahimApp.AssemblyInfo.cs
+C:\Users\muham\source\repos\AbduRahimApp\AbduRahimApp\obj\Debug\net6.0\AbduRahimApp.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\AbduRahimApp\AbduRahimApp\obj\Debug\net6.0\AbduRahimApp.dll
+C:\Users\muham\source\repos\AbduRahimApp\AbduRahimApp\obj\Debug\net6.0\refint\AbduRahimApp.dll
+C:\Users\muham\source\repos\AbduRahimApp\AbduRahimApp\obj\Debug\net6.0\AbduRahimApp.pdb
+C:\Users\muham\source\repos\AbduRahimApp\AbduRahimApp\obj\Debug\net6.0\AbduRahimApp.genruntimeconfig.cache
+C:\Users\muham\source\repos\AbduRahimApp\AbduRahimApp\obj\Debug\net6.0\ref\AbduRahimApp.dll
